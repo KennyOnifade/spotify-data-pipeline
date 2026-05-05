@@ -11,6 +11,12 @@ The system:
 
 ---
 
+## 📓 Notebook
+👉 View the full analysis here:  
+[Spotify Portfolio Notebook](notebooks/spotify_portfolio.ipynb)
+
+---
+
 ## 🛠️ Technologies Used
 - Python (pandas, pyodbc)
 - SQL Server (Docker)
